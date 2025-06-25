@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+pandas
+scikit-image
+notebooks
+ipywidgets
+tqdm
+seaborn
+scanpy # RNAseq
+python-igraph
