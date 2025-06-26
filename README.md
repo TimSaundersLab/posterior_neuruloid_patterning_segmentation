@@ -1,7 +1,7 @@
-# Analysing posterior neuruloid patterning using segmentation 
+# posterior_neuruloid_patterning_segmentation
 ![image](https://github.com/user-attachments/assets/57aa9dec-1d6d-4172-b754-7d23ff31b5cf)
 
-Segment neuruloid data earlier than day 2 to obtain intensity trends.
+Analysing posterior neuruloid patterning using segmentation method to obtain intensity trends.
 
 ### Suggested set-up of virtual environment for project
 Create virtual environment for CellPose https://www.cellpose.org that works for your device. Other libraries are standard, listed in `requirements.txt`.
