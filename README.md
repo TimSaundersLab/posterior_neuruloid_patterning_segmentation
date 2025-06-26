@@ -1,4 +1,6 @@
 # Analysing posterior neuruloid patterning using segmentation 
+![image](https://github.com/user-attachments/assets/57aa9dec-1d6d-4172-b754-7d23ff31b5cf)
+
 Segment neuruloid data earlier than day 2 to obtain intensity trends.
 
 ### Suggested set-up of virtual environment for project
